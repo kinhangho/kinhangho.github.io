@@ -1,0 +1,27 @@
+#tablehead {
+    border: 3em;
+    background-color: blueviolet;
+    color: white;
+    border-color: coral;
+}
+
+h1 {
+    text-align: center;
+  }
+  
+h2 {
+    color: rebeccapurple;
+    text-align: center;
+  }
+  
+
+table{
+    text-align: left;
+    border: 2px solid darkorchid;
+    width: 650px;
+    margin: 0 auto;
+}
+
+td {
+    border-top: 1px solid darkorchid;
+  }
